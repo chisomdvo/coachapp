@@ -1,0 +1,1 @@
+This is a app for people to find and communicate with coaches for various skills they require
